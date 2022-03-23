@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{E675B0DB-28D4-46D1-B47B-775A2091A995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HillCipher", "HillCipher\HillCipher.csproj", "{41EBEE2E-69C1-4538-B2F6-83BAB0BCDE31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashingFunction", "Hashing\HashingFunction.csproj", "{E6612CF8-8B0A-4059-8BCD-49C94F82D4FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commons", "Commons\Commons.csproj", "{66D59CC4-74F9-4CAE-A4AD-F3BE3B51B066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E675B0DB-28D4-46D1-B47B-775A2091A995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E675B0DB-28D4-46D1-B47B-775A2091A995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E675B0DB-28D4-46D1-B47B-775A2091A995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E675B0DB-28D4-46D1-B47B-775A2091A995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41EBEE2E-69C1-4538-B2F6-83BAB0BCDE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EBEE2E-69C1-4538-B2F6-83BAB0BCDE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EBEE2E-69C1-4538-B2F6-83BAB0BCDE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EBEE2E-69C1-4538-B2F6-83BAB0BCDE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6612CF8-8B0A-4059-8BCD-49C94F82D4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6612CF8-8B0A-4059-8BCD-49C94F82D4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6612CF8-8B0A-4059-8BCD-49C94F82D4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6612CF8-8B0A-4059-8BCD-49C94F82D4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D59CC4-74F9-4CAE-A4AD-F3BE3B51B066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D59CC4-74F9-4CAE-A4AD-F3BE3B51B066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D59CC4-74F9-4CAE-A4AD-F3BE3B51B066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D59CC4-74F9-4CAE-A4AD-F3BE3B51B066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A0E98D4-00C9-4ACA-B0F2-97119B700C29}
+	EndGlobalSection
+EndGlobal
